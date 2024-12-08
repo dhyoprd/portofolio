@@ -4,23 +4,23 @@ import { CodeBracketIcon, CommandLineIcon, CpuChipIcon } from '@heroicons/react/
 
 const projects = [
   {
-    title: "Project 1",
-    description: "A cool project description",
-    tech: ["React", "TailwindCSS", "Framer Motion"],
+    title: "Tugas 1 SIG",
+    description: "Tugas-Tugas SIG",
+    tech: ["Laravel", "HTML", "CSS"],
     icon: CodeBracketIcon,
     link: "https://youtube.com"
   },
   {
-    title: "Project 2",
-    description: "Another amazing project",
-    tech: ["Node.js", "Express", "MongoDB"],
+    title: "Housing Price Prediction",
+    description: "Machine Learning Project",
+    tech: ["Python", "Tensorflow", "NumPy"],
     icon: CommandLineIcon,
-    link: "https://github.com"
+    link: "https://github.com/dhyoprd/Housing-Price-Prediction"
   },
   {
-    title: "Project 3",
-    description: "Something awesome",
-    tech: ["Python", "Django", "PostgreSQL"],
+    title: "Capstone-Project",
+    description: "Untuk Menamatkan Teknik Elektro",
+    tech: ["React.js", "CodeIgniter", "MySQL"],
     icon: CpuChipIcon,
     link: "https://dribbble.com"
   }

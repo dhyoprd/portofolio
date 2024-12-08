@@ -12,7 +12,7 @@ const Footer = () => {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          <p>© 2023 Portfolio. All rights reserved.</p>
+          <p>© 2024 dhyoprd. All rights reserved.</p>
         </motion.div>
       </div>
     </footer>
