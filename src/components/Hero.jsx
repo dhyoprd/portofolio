@@ -14,7 +14,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          Welcome
+          Welcome To
         </motion.p>
         <motion.h1 
           className="font-display text-6xl md:text-8xl font-bold text-white mb-6 leading-tight"
@@ -22,7 +22,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
         >
-          Tugas 1 SIG
+          Dhyo's Porto.
         </motion.h1>
         <motion.p 
           className="font-sans text-xl md:text-2xl text-purple-200 mb-12 tracking-wide"
